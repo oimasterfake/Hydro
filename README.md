@@ -18,7 +18,7 @@ Hydro提供收费的功能定制服务，如您需要可与我们联系。
 相关文档若说明的不够详细，请提交 Pull Request 或联系开发组说明。  
 bug和功能建议请在 Issues 提出。  
 
-[在 Gitpod 打开已配置完成的测试环境](https://gitpod.io/#https://github.com/hydro-dev/Hydro)  
+[在 Gitpod 打开已配置完成的测试环境](https://gitpod.io/#https://github.com/oimasterfake/Hydro)  
 
 ## 联系我们
 
