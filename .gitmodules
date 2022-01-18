@@ -1,7 +1,7 @@
 [submodule "customize"]
 path = packages/customize
-url = https://github.com/hydro-dev/customize.git
+url = https://github.com.cnpmjs.org/hydro-dev/customize.git
 
 [submodule "testlib"]
 path = packages/hydrojudge/vendor/testlib
-url = https://github.com/MikeMirzayanov/testlib.git
+url = https://github.com.cnpmjs.org/MikeMirzayanov/testlib.git
